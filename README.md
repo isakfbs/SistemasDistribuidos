@@ -2,8 +2,8 @@
 
 #Integrantes do grupo
 
-Isak Silva
-Ronaldo Souza
-Wesley Saldanha 
-Raphael Taito
-Leandro Tadeu
+Isak Silva</br>
+Ronaldo Souza</br>
+Wesley Saldanha </br>
+Raphael Taito</br>
+Leandro Tadeu</br>
